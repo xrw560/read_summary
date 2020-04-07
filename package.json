@@ -1,0 +1,28 @@
+{
+  "name": "read_summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrw560/read_summary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xrw560/read_summary/issues"
+  },
+  "homepage": "https://github.com/xrw560/read_summary#readme",
+  "dependencies": {
+    "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
+    "gitbook-plugin-page-treeview": "^3.0.1",
+    "gitbook-plugin-prism": "^2.4.0",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-simple-page-toc": "^0.1.2",
+    "gitbook-plugin-splitter": "0.0.8",
+    "gitbook-plugin-tbfed-pagefooter": "0.0.1"
+  }
+}

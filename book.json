@@ -1,0 +1,28 @@
+{
+  "title": "阅读笔记",
+  "description": "阅读笔记",
+  "language": "zh",
+  "plugins": [
+	"-lunr", 
+	"-search", 
+	"search-pro",
+	"page-treeview",
+    "splitter",
+    "anchor-navigation-ex",
+    "prism", 
+    "-highlight",
+	"simple-page-toc"
+  ],
+  "pluginsConfig": {
+    "simple-page-toc": {
+        "maxDepth": 3,
+        "skipFirstH1": true
+    },
+	"page-treeview": {
+		"copyright": "Copyright zhou",
+		"minHeaderCount": "2",
+		"minHeaderDeep": "2"
+	}
+
+  }
+}
