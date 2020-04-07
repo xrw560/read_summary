@@ -22,7 +22,15 @@
 		"copyright": "Copyright zhou",
 		"minHeaderCount": "2",
 		"minHeaderDeep": "2"
-	}
+	},
+	"prism": {
+        "css": [
+          "prismjs/themes/prism-solarizedlight.css"
+        ],
+		"lang":{
+			"shell": "bash"
+		}
+      }
 
   }
 }

@@ -12,20 +12,7 @@ gen
 target/
 /.project
 
-# python
-*.cpython-36.pyc
-compiled_krb
-venv/
-*.jpg
-*.h5
-venv/
-*.csv
-runs/
-sftp-config.json
-logs/
-
 _book
 node_modules
 .git
-package.json
-package-lock.json
+package*
